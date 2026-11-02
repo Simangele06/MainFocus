@@ -1,7 +1,7 @@
 # MainFocus
 ## Student Information
 Simangele Marweshi
-St10514426
+ST10514426
 WEDE5020
 Group 2
 ## Project Overview
@@ -128,4 +128,8 @@ Integrated your exact, custom page-by-page color choices (#A48374 for home, #704
  Confirmed that the responsive layouts continued working after the JavaScript improvements.
 
 ### Reference
+Woolworths
+https://www.woolworths.co.za
+JAM Clothing
+https://jamclothing.co.za
 
