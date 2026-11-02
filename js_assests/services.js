@@ -4,33 +4,33 @@ var products = [
     {
         name: "T-shirt",
         price: 100,
-        image: "_image/summerwear/toy-truck-shirt.jpg"
+        image: "image/summerwear/toy-truck-shirt.jpg"
     },
     {
         name: "Shorts",
         price: 150,
-        image: "_image/summerwear/blue-short-jeans.jpg"
+        image: "image/summerwear/blue-short-jeans.jpg"
     },
     {
         name: "Jeans",
         price: 200,
-        image: "_image/summerwear/blue-jeans.jpg" 
+        image: "image/summerwear/blue-jeans.jpg" 
     },
     
     {
         name: "Shirt",
         price: 250,
-        image: "_image/summerwear/tiger-shirt.jpg"
+        image: "image/summerwear/tiger-shirt.jpg"
     },
     {
         name: "Shirt",
         price: 250,
-        image: "_image/summerwear/white-striped-shirt.jpg"
+        image: "image/summerwear/white-striped-shirt.jpg"
     },
     {
         name: "Shirt",
         price: 250,
-        image: "_image/summerwear/dinosaur-shirt.jpg"
+        image: "image/summerwear/dinosaur-shirt.jpg"
     }
 
 ];
@@ -39,32 +39,32 @@ var winterProducts = [
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/black-jacket.jpg"
+        image: "image/winterwear/black-jacket.jpg"
     },
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/khaki-jacket.jpg"
+        image: "image/winterwear/khaki-jacket.jpg"
     },
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/red-jacket.jpg"
+        image: "image/winterwear/red-jacket.jpg"
     },
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/dark-green-jacket.jpg"
+        image: "image/winterwear/dark-green-jacket.jpg"
     },
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/grey-black-hoody.jpg"
+        image: "image/winterwear/grey-black-hoody.jpg"
     },
     {
         name: "Jacket",
         price: 300,
-        image: "_image/winterwear/fur-brown-jacket.jpg"
+        image: "image/winterwear/fur-brown-jacket.jpg"
     }
 ];
 // Store Formal Collection products
@@ -72,32 +72,32 @@ var formalProducts = [
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/vest-suit-set.jpg"
+        image: "image/formalwear/vest-suit-set.jpg"
     },
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/ring-bearer-outfit.jpg"
+        image: "image/formalwear/ring-bearer-outfit.jpg"
     },
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/smart-casual-outfit.jpg"
+        image: "image/formalwear/smart-casual-outfit.jpg"
     },
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/page-boy-outfit.jpg"
+        image: "image/formalwear/page-boy-outfit.jpg"
     },
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/coat-set.jpg"
+        image: "image/formalwear/coat-set.jpg"
     },
     {
         name: "Formal Suit",
         price: 500,
-        image: "_image/formalwear/black-coat-set.jpg"
+        image: "image/formalwear/black-coat-set.jpg"
     }
 ];
 // Store Footwear Collection products
@@ -105,32 +105,32 @@ var footwearProducts = [
     {
         name: "Formal Shoes",
         price: 200,
-        image: "_image/shoes/all-star-likely-grey-shoes.jpg"
+        image: "image/shoes/all-star-likely-grey-shoes.jpg"
     },
     {
         name: "Formal Shoes",
         price: 300,
-        image: "_image/shoes/all-star-likely-blue-shoes.jpg"
+        image: "image/shoes/all-star-likely-blue-shoes.jpg"
     },
     {
         name: "Formal Shoes",
         price: 100,
-        image: "_image/shoes/baby-soft-sole-canvas-green-sneakers.jpg"
+        image: "image/shoes/baby-soft-sole-canvas-green-sneakers.jpg"
     },
     {
         name: "Formal Shoes",
         price: 100,
-        image: "_image/shoes/baby-soft-sole-canvas-brown-sneakers.jpg"
+        image: "image/shoes/baby-soft-sole-canvas-brown-sneakers.jpg"
     },
     {
         name: "Formal Shoes",
         price: 100,
-        image: "_image/shoes/kids-canvas-slp-on-sneakers.jpg"
+        image: "image/shoes/kids-canvas-slp-on-sneakers.jpg"
     },
     {
         name: "Formal Shoes",
         price: 100,
-        image: "_image/shoes/baby-soft-sole-canvas-red-sneakers.jpg"
+        image: "image/shoes/baby-soft-sole-canvas-red-sneakers.jpg"
     }
 ];
 // Store Sunglasses Collection products
@@ -138,32 +138,32 @@ var sunglassesProducts = [
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/square-styled-sunglasses.jpg"
+        image: "image/sunglass/square-styled-sunglasses.jpg"
     },
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/clubmaster-styled-sunglasses.jpg"
+        image: "image/sunglass/clubmaster-styled-sunglasses.jpg"
     },
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/wayfarer-styled-sunglasses.jpg"
+        image: "image/sunglass/wayfarer-styled-sunglasses.jpg"
     },
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/aviator-styled-sunglasses.jpg"
+        image: "image/sunglass/aviator-styled-sunglasses.jpg"
     },
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/rounded-frame-sytled-sunglasses.jpg"
+        image: "image/sunglass/rounded-frame-sytled-sunglasses.jpg"
     },
     {
         name: "Sunglasses",
         price: 150,
-        image: "_image/sunglass/rounded-vintage-styled-sunglasses.jpg"
+        image: "image/sunglass/rounded-vintage-styled-sunglasses.jpg"
     }
 ];
 // Store Headwear Collection products
@@ -171,32 +171,32 @@ var headwearProducts = [
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/classic-ribbed-cuffed-beanie.jpg"
+        image: "image/hats/classic-ribbed-cuffed-beanie.jpg"
     },
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/knit-beanie-hat.jpg"
+        image: "image/hats/knit-beanie-hat.jpg"
     },
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/wide-brimmed-flet-hat.jpg"
+        image: "image/hats/wide-brimmed-flet-hat.jpg"
     },
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/black-baseball-cap.jpg"
+        image: "image/hats/black-baseball-cap.jpg"
     },
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/cuffed-beanie-hat.jpg"
+        image: "image/hats/cuffed-beanie-hat.jpg"
     },
     {
         name: "Headwear",
         price: 100,
-        image: "_image/hats/baseball-cap.jpg"
+        image: "image/hats/baseball-cap.jpg"
     }
 ];
  // Find the space for our summer products
